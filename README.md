@@ -1,5 +1,5 @@
-#Coding Ninjas Skill Test
-#STOPWATCH
+##Coding Ninjas Skill Test
+##STOPWATCH
 
 Stopwatch maintains a simple stopwatch functionality.<br>
 
